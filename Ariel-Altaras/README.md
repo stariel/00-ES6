@@ -22,10 +22,10 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+I had to change 'const' to 'let' in situations where the variable was changing, such as i and the view counter. However, this did not apply to arrays that were changing.
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+It was fairly simple, I deleted all the ' and + symbols and added ${} notation around variable names. I think template literal is definitely easier for concatenations with many parts, and I will probably use it in the future.
