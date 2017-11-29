@@ -15,7 +15,7 @@ Plan to spend about 10-15 minutes reading through this document and the linked r
 After that, follow the instructions below to fork and clone this repository, and then spend about 30 minutes working in the starter code.
 
 1. If you have not yet already, set up a `~/codefellows/301/` directory that you will use for your assignments and projects for this course.
-2. Fork and then clone the repository from the link provided by the instructor in Slack into that directory, and navigate into that repo.
+2. Fork and then clone this repository into your ~/codefellows/301 directory, and navigate into that repo.
 3. Create a new branch using your name: `git checkout -b firstname-lastname`
 4. Create a copy of the `starter-code` directory with the copy's name being the your first name and last name (`cp -r starter-code firstname-lastname`) and navigate into that directory (ex: `cd sam-hamm`).
 5. Read through the following reference materials for each of these topics.
